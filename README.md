@@ -3,7 +3,6 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -12,12 +11,6 @@
 - [Author](#author)
 
 ## Overview
-
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the section depending on their device's screen size
 
 ### Screenshot
 
