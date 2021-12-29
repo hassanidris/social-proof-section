@@ -1,0 +1,32 @@
+:root { 
+
+//  ### Primary
+
+  --clr-veryDarkMagenta: hsl(300, 43%, 22%);
+  --clr-softPink: hsl(333, 80%, 67%);
+
+
+//  ### Neutral
+
+  --clr-darkGrayishMagenta: hsl(303, 10%, 53%);
+  --clr-lightGrayishMagenta: hsl(300, 24%, 96%);
+  --clr-white: hsl(0, 0%, 100%);
+
+// ### Typography
+
+  --ff-spartan: 'Spartan', sans-serif;
+
+  --fs-300: 2rem;
+  --fs-200: .9375rem;
+  --fs-100: .8125rem;
+
+  --fw-700: 700;
+  --fw-500: 500;
+  --fw-400: 400;
+
+  --br: .5em;
+
+  @media (min-width: 50em) {
+    --fs-300: 3rem;
+  }
+}
