@@ -21,7 +21,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot-127 0 0 1_5501-2021 12 29-23_33_56](https://user-images.githubusercontent.com/69512496/147701317-31be01c3-df52-47cd-8f48-b495fc9be964.png)
+
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
